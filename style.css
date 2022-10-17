@@ -6,7 +6,7 @@
 .navbar{
 
 border: none;
-background-color: black;
+background-color: rgb(20, 20, 20);
 color: #61122F;
 }
 body{
@@ -35,7 +35,7 @@ h2{
 	text-align: center;
 }
 #myNavbar ul li a {
-	color: #61122F;
+	color: #701537;
 }
 .navbar-brand{
 font-size: 30px;	
